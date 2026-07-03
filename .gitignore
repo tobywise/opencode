@@ -1,0 +1,8 @@
+node_modules
+package.json
+bun.lock
+.gitignore
+opencode.json
+package-lock.json
+skills/
+.serena/
